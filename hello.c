@@ -4,7 +4,8 @@ Date: 2020/14/1*/
 #include <stdio.h>
 
 int main(void) {
-	printf("Hello World!\n");
+	printf("Cade Cutler\n");
+	printf("Mathematics\n");
 	return 0;
 }
 
