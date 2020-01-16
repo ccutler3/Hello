@@ -6,6 +6,10 @@ Date: 2020/14/1*/
 int main(void) {
 	printf("Cade Cutler\n");
 	printf("Mathematics\n");
+	printf("Abdullah Alkindi\n");
+	printf("Civil Engineering\n");
+
+
 	return 0;
 }
 
